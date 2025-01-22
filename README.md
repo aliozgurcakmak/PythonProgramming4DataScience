@@ -1,7 +1,7 @@
-# Python Exercises from Miuul Data Science Bootcamp 🐍
+# Python Exercises from Miuul Data Scientist Bootcamp 🐍
 
 ## Overview 📋
-This repository contains the exercises completed during **Week One** of the Miuul Data Science Bootcamp. The exercises focus on foundational Python programming concepts, including data structures, functions, conditions, loops, and comprehensions. Each file demonstrates practical implementations and examples designed to build a strong programming foundation.
+This repository contains the exercises completed during **Week One** of the Miuul Data Scientist Bootcamp. The exercises focus on foundational Python programming concepts, including data structures, functions, conditions, loops, and comprehensions. Each file demonstrates practical implementations and examples designed to build a strong programming foundation.
 
 ## Contents 📚
 
@@ -49,5 +49,3 @@ This repository contains the exercises completed during **Week One** of the Miuu
 ## Final Thoughts 💡
 These exercises provide a solid foundation for Python programming, focusing on both basic and intermediate concepts. They are an excellent starting point for beginners or those refreshing their Python skills.
 
----
-Let me know if you want to add specific GitHub sections like "Installation" or "Contribution Guidelines"!
