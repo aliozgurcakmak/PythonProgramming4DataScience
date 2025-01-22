@@ -5,7 +5,7 @@ This repository contains the exercises completed during **Week One** of the Miuu
 
 ## Contents 📚
 
-### 1. **Data Structures** (`dataStructures.py`) :contentReference[oaicite:0]{index=0}
+### 1. **Data Structures** (`dataStructures.py`)
    - **Topics Covered**:
      - **Numbers**: Integer, float, and complex number operations.
      - **Strings**: Slicing, transformations (`upper`, `lower`), and operations like `replace` and `split`.
@@ -15,7 +15,7 @@ This repository contains the exercises completed during **Week One** of the Miuu
      - **Tuples**: Immutable data structures and conversion between tuples and lists.
      - **Sets**: Unique, unordered collections and operations like `union`, `intersection`, and `difference`.
 
-### 2. **Functions, Conditions, Loops, and Comprehensions** (`functionsConditionsLoopsComprehensions.py`) :contentReference[oaicite:1]{index=1}
+### 2. **Functions, Conditions, Loops, and Comprehensions** (`functionsConditionsLoopsComprehensions.py`) 
    - **Functions**:
      - Basics of defining and calling functions.
      - Parameter usage, default arguments, and return statements.
